@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>标题</title>
+  <title>荒岛</title>
   
-  <subtitle>副标题</subtitle>
+  
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-08-08T12:06:36.212Z</updated>
+  <updated>2023-08-08T13:26:14.764Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="http://example.com/2023/08/08/%E6%B5%8B%E8%AF%95/"/>
     <id>http://example.com/2023/08/08/%E6%B5%8B%E8%AF%95/</id>
     <published>2023-08-08T12:04:12.000Z</published>
-    <updated>2023-08-08T12:06:36.212Z</updated>
+    <updated>2023-08-08T13:26:14.764Z</updated>
     
-    <content type="html"><![CDATA[<p>public class MyFirstJavaProgram{<br>    public static void main(String [] args){<br>        System.out.println(“Hello world”);<br>    }<br>}</p>]]></content>
+    <content type="html"><![CDATA[<p>public class MyFirstJavaProgram{<br>    public static void main(String [] args){<br>        System.out.println(“Hello world”);<br>        System.out.println(“Hello world”);<br>    }<br>}</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;public class MyFirstJavaProgram{&lt;br&gt;    public static void main(String [] args){&lt;br&gt;        System.out.println(“Hello world”);&lt;br&gt;    }&lt;b</summary>
+    <summary type="html">&lt;p&gt;public class MyFirstJavaProgram{&lt;br&gt;    public static void main(String [] args){&lt;br&gt;        System.out.println(“Hello world”);&lt;br&gt;       </summary>
       
     
     
